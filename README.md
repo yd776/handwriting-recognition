@@ -1,2 +1,2 @@
 # handwriting-recognition
-this is the basic digit recognition problem
+Handwriting detection/verification model recognize and predict the author of the handwritten content.
